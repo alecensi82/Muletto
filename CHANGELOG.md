@@ -1,5 +1,10 @@
 # Novità di Muletto
 
+## 1.2
+- Nuovo tema **Notte**, ispirato a PhotoBoard: blu-nero profondo e uniforme, pannelli di vetro semitrasparente con bordo di luce
+- Titoli delle colonne trasparenti nel tema Notte
+- Il pannello attivo è indicato da una sottile linea colorata in alto, al posto del bordo attorno al pannello
+
 ## 1.1
 - Nuovo stile **Arioso**: titoli grandi, righe ampie con miniature, selezione a pillola
 - Barra in alto con **capsule flottanti** in vetro
