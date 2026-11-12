@@ -1,5 +1,9 @@
 # Novità di Muletto
 
+## 1.3
+- Impostazioni › Aspetto: le icone dell'app non si sovrappongono più al menu del tema
+- Torna visibile la nota sotto le icone dell'app
+
 ## 1.2
 - Nuovo tema **Notte**, ispirato a PhotoBoard: blu-nero profondo e uniforme, pannelli di vetro semitrasparente con bordo di luce
 - Titoli delle colonne trasparenti nel tema Notte
